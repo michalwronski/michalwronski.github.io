@@ -1,40 +1,11 @@
-# API Style Guide
+# API Style Guide - test site
 
 **TL;DR:** AIPs are lots of documents on how XXX does APIs.
 
 ## Overview
 
 AIP stands for **API Improvement Proposal**, which is a design document
-providing high-level, concise documentation for API development. The goal is
-for these documents to serve as the source of truth for API-related
-documentation at Google and the way API teams discuss and come to consensus on
-API guidance. The program is named and styled after Python's enhancement
-proposals (PEPs) which have seemed to work pretty well over the years.
-
-### Specific areas inside Google
-
-While much of the API-related guidance is general and spans across all the
-different products at Google, we've found that some teams working in different
-areas may have different customs, styles, or guidance. To accommodate these
-historical differences, we've provided separate blocks of numbers for those
-areas where they might override or extend the more general guidance.
-
-## Getting started
-
-### New to AIPs?
-
-If you're **new to AIPs**, check out the [Frequently Asked Questions][] which
-answer some common questions about how AIPs work and what you need to know.
-
-### Have an idea for an AIP?
-
-If you **have an idea for an AIP that isn't written yet** (yes, there are
-plenty!) check out [Contributing to the project][] to see how you can write
-AIPs for others to follow.
-
-[frequently asked questions]: ./aip/faq.md
-[contributing to the project]: ./CONTRIBUTING.md
-
+providing high-level, concise documentation for API development.
 ## License
 
 Except as otherwise noted, the content of this repository is licensed under the
